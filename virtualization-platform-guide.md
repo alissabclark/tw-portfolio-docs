@@ -1,5 +1,5 @@
 ---
-**EXAMPLE DOCUMENTATION - FOR PORTFOLIO PURPOSES ONLY**
+EXAMPLE DOCUMENTATION - FOR PORTFOLIO PURPOSES ONLY
 
 *This is a sample technical documentation guide created to demonstrate documentation skills. The product, system names, commands, and specifications are fictional and for illustrative purposes only.*
 
