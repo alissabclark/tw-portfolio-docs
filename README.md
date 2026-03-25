@@ -1,1 +1,1 @@
-The files in this directory are sample technical documentation files created to demonstrate documentation skills. All products, system names, commands, and specifications are fictional and for illustrative purposes only
+The files in this directory are sample technical documentation files created to demonstrate documentation skills. All products, system names, commands, and specifications are fictional and for illustrative purposes only.
